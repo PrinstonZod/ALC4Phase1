@@ -1,0 +1,4 @@
+This is a test application that contains 3 activities; main activity, webview and profile.
+It was done in completion of the Andela Learning Community (ALC) 4.0 5 day of Code Challenge.
+It has no specific permissions.
+ENJOY!!!! 
